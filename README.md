@@ -59,4 +59,4 @@ Price and tax rates
 
 - Notes (optional)
 
-3. Preview your document in real time. 4. One-click creation and download of high-quality PDF. --- ## Installation (For Developers) To run this project locally: 1. Clone the repository: ```bash git clone https://github.com/your-username/quotation-invoice-generator.git
+3. Preview your document in real time. 4. One-click creation and download of high-quality PDF. --- ## Installation (For Developers) To run this project locally: 1. Clone the repository: ```bash git clone https://github.com/your-username/quotation-generator.git
